@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: sdk3btyge-java-quarkus-gitops-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/sdk3btyge-java-quarkus-gitops
